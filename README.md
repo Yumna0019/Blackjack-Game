@@ -8,6 +8,10 @@ Welcome to the **Blackjack Game** project! Step right up and test your luck in t
 - **🎲 Random Luck**: Cards are dealt randomly, so every game is a new adventure.
 - **💻 Pure JavaScript**: Built with vanilla JavaScript, HTML, and CSS.
 
+## 🌐 Live Demo
+
+Try your luck at the live demo of the Blackjack Game [here](https://blackjack-game-x-js.netlify.app/).
+
 ## 🚀 Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
@@ -23,10 +27,6 @@ Follow these instructions to get the project up and running on your local machin
    cd Blackjack-Game
    ```
 3. **Open `index.html` in your favorite web browser.**
-
-## 🌐 Live Demo
-
-Try your luck at the live demo of the Blackjack Game [here](https://blackjack-game-x-js.netlify.app/).
 
 ## 🎮 How to Play
 
